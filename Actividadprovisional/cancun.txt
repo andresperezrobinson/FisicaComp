@@ -2,7 +2,7 @@ Estación:       CANCUN,  QROO
 Operada por:    SMN EMAS
 Longitud:       86°51'08"  Latitud: 21°01'46"  Altitud: 1
 
-DD/MM/AAAA HH:MM      DIRS      DIRR      VELS      VELR      TEMP        HR        PB      PREC   RAD-SOL
+DD/MM/AAAA HH:MM      DIRS      DIRR      VELS      VELR      TEMP        HR        PB      PREC   RADSOL
 22/01/2019 22:00       129       119     15.51     34.40      24.0        93    1016.2       1.0      62.5
 22/01/2019 23:00       141       147     18.12     35.00      24.2        86    1016.2       0.3       7.0
 23/01/2019 00:00       141       125     19.95     39.00      24.8        81    1016.4       0.0       0.0
